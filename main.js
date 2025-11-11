@@ -6,4 +6,4 @@ function main(){
 
 main();
 
-console.log("Hii");
+console.log("Hii main");
